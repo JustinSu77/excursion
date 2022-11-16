@@ -44,5 +44,6 @@ body{
 footer{
     text-align: right;
     color: gray;
-    font-size: 21px;
+    font-size: 24px;
+    font-family: Verdana;
 }
