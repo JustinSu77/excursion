@@ -40,3 +40,9 @@ body{
     font-size: 21px;
     font-family: Verdana;
 }
+
+footer{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
